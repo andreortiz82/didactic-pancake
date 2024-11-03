@@ -1,0 +1,15 @@
+logs
+*.log
+node_modules
+dist
+build
+out
+*.local
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.vscode/*
+!.vscode/extensions.json
+.DS_Store

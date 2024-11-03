@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: var(--application-background-subtle);
+  color: var(--application-primary-text);
+}
